@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>    
 <p align="left">
-    <a href="https://www.linkedin.com/in/ankusha-sabharwal/">
+    <a href="www.linkedin.com/in/ankusha-sabharwal2205">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
     </a>
 </p>
